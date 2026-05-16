@@ -88,3 +88,9 @@ dotnet run
 The MAUI apps (`async-best-practices`, `synchronization-context`) require the .NET MAUI workload.
 
 Open `async/async.slnx` in Visual Studio or Rider to browse all projects in one solution.
+
+---
+
+Thanks to Brandon Minnick for the course — [From Zero to Hero: Asynchronous Programming in C#](https://dometrain.com/course/from-zero-to-hero-asynchronous-programming-in-csharp/).
+
+[Certificate of completion](<certificate/Asynchronous Programming in C# - Einav Haimovich.pdf>)
