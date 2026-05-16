@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="callback-chaining/CallbackChaining.csproj" />
+  <Project Path="async-await-basics/AsyncAwaitBasics.csproj" />
+  <Project Path="concurrent-tasks/ConcurrentTasks.csproj" />
+  <Project Path="task-internals/TaskInternals.csproj" />
+  <Project Path="async-best-practices/HackerNews.csproj" />
+  <Project Path="thread-local-storage/ThreadLocalStorage.csproj" />
+  <Project Path="security-context/SecurityContext.csproj" />
+  <Project Path="execution-context/ExecutionContext.csproj" />
+  <Project Path="synchronization-context/HackerNews.csproj" />
+</Solution>
