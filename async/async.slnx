@@ -1,11 +1,20 @@
 <Solution>
-  <Project Path="callback-chaining/CallbackChaining.csproj" />
-  <Project Path="async-await-basics/AsyncAwaitBasics.csproj" />
-  <Project Path="concurrent-tasks/ConcurrentTasks.csproj" />
-  <Project Path="task-internals/TaskInternals.csproj" />
-  <Project Path="async-best-practices/HackerNews.csproj" />
-  <Project Path="thread-local-storage/ThreadLocalStorage.csproj" />
-  <Project Path="security-context/SecurityContext.csproj" />
-  <Project Path="execution-context/ExecutionContext.csproj" />
-  <Project Path="synchronization-context/HackerNews.csproj" />
+  <Folder Name="/async-await/">
+    <Project Path="async-await/callback-chaining/CallbackChaining.csproj" />
+    <Project Path="async-await/async-await-basics/AsyncAwaitBasics.csproj" />
+    <Project Path="async-await/concurrent-tasks/ConcurrentTasks.csproj" />
+  </Folder>
+  <Folder Name="/compiler-generated-code/" />
+  <Folder Name="/async-from-scratch/">
+    <Project Path="async-from-scratch/task-internals/TaskInternals.csproj" />
+  </Folder>
+  <Folder Name="/best-practices/">
+    <Project Path="best-practices/async-best-practices/HackerNews.csproj" />
+  </Folder>
+  <Folder Name="/dotnet-internals/">
+    <Project Path="dotnet-internals/thread-local-storage/ThreadLocalStorage.csproj" />
+    <Project Path="dotnet-internals/security-context/SecurityContext.csproj" />
+    <Project Path="dotnet-internals/execution-context/ExecutionContext.csproj" />
+    <Project Path="dotnet-internals/synchronization-context/HackerNews.csproj" />
+  </Folder>
 </Solution>
